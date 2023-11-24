@@ -1,0 +1,1 @@
+cd "g:\baitapc++\bai12\" ; if ($?) { g++ program12-12.
